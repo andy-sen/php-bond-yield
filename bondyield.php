@@ -4,6 +4,7 @@
     Basic Yield calculation class.
  *
  * I was searching for a PHP class which can cal the YIELD function of Excel. Didn't find any, so wrote one.
+ * Thanks Percy for helping derive f'(x) for some of the more complex terms
  *
  * @author    Andy Sen  <email@andysen.com>
  *

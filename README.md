@@ -3,7 +3,7 @@ php-bond-yield
 
 Bond Yield calculation class
 
-I was searching for a PHP class which can cal the YIELD function of Excel. Didn't find any, so wrote one.
+I was searching for a PHP class which can calculate the YIELD function of Excel. Didn't find any, so wrote one.
 Calculates the bond yield using the Newton Raphson method
 Formula from http://office.microsoft.com/en-in/excel-help/price-HP005209219.aspx
 
