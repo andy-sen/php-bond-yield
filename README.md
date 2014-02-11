@@ -8,7 +8,7 @@ Calculates the bond yeild using the Newton Raphson method
 Formula from http://office.microsoft.com/en-in/excel-help/price-HP005209219.aspx
 Day accounting basis is 30/360 US
 
-Usage: 
+### Usage: 
 
 ```php
 
@@ -17,8 +17,8 @@ printf("%f\n",BondYield::Calculate('2001-12-16',99, '2002-01-15',5,2,100));
 ```
 
 
-parameters | description
-------------------------
+parameters     | description
+---------------|--------------
 settlement date| in yyyy-mm-dd format
 current price | in currency units
 maturity date | in yyyy-mm-dd format
